@@ -115,6 +115,16 @@ donjara/
 - **CPUPlayer**: AI logic for computer opponents / CPU対戦相手のAIロジック
 - **Settings**: Persistent storage for custom configurations / カスタム設定の永続化
 
+### Architecture Diagrams / アーキテクチャ図
+
+📋 **For detailed system architecture, see [architecture.md](architecture.md)**  
+**詳細なシステムアーキテクチャは [architecture.md](architecture.md) をご覧ください**
+
+The architecture document includes:
+- **Class diagrams** with all components and relationships / **クラス図** - 全コンポーネントと関係性
+- **Sequence diagrams** for game flow and user interactions / **シーケンス図** - ゲームフローとユーザー操作
+- **Design patterns** and architectural decisions / **デザインパターン** とアーキテクチャ設計判断
+
 ## 🛠️ Development / 開発
 
 ### Running in Development Mode / 開発モードでの実行
